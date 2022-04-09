@@ -21,5 +21,5 @@ public class ButtonPlane extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-    //i better get a good grade
+    //i better get a good grade just kidding
 }
