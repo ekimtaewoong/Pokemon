@@ -21,5 +21,5 @@ public class ButtonPlane extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-    //POKEMON PIKA
+    //no way this is real
 }
